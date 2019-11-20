@@ -9,4 +9,4 @@ A 1N4004 diode + 100 Ohms resistor + 220uF capacitor hep to reduce noise at low 
 PWW frequency is reduced at 31Hz on board
 
 ## Schematics
-![alt text](https://github.com/nliaudat/silent3pinFanController/raw/master/imgsfritzing.png "Board")
+![alt text](https://github.com/nliaudat/silent3pinFanController/blob/master/imgs/fritzing.png "Board")
